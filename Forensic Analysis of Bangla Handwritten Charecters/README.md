@@ -1,3 +1,5 @@
+# This is an combined project and the work is still on progress. 
+
 # Age & Divison Prediction Trials
 
 
@@ -10,4 +12,4 @@
 
 1. The first trial with 3 convolutional layers gave a training accuracy of 96.487% and the test accuracy was recorded to top the 97% mark.
 
-2.
+# Dataset is not uploaded here due to heavy size. 
